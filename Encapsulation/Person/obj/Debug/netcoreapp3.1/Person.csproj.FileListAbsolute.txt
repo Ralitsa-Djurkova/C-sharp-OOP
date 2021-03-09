@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\EncapsulationDemo\Person\bin\Debug\netcoreapp3.1\Person.exe
+C:\Users\georg\source\repos\EncapsulationDemo\Person\bin\Debug\netcoreapp3.1\Person.deps.json
+C:\Users\georg\source\repos\EncapsulationDemo\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.json
+C:\Users\georg\source\repos\EncapsulationDemo\Person\bin\Debug\netcoreapp3.1\Person.runtimeconfig.dev.json
+C:\Users\georg\source\repos\EncapsulationDemo\Person\bin\Debug\netcoreapp3.1\Person.dll
+C:\Users\georg\source\repos\EncapsulationDemo\Person\bin\Debug\netcoreapp3.1\Person.pdb
+C:\Users\georg\source\repos\EncapsulationDemo\Person\obj\Debug\netcoreapp3.1\Person.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\EncapsulationDemo\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\EncapsulationDemo\Person\obj\Debug\netcoreapp3.1\Person.AssemblyInfo.cs
+C:\Users\georg\source\repos\EncapsulationDemo\Person\obj\Debug\netcoreapp3.1\Person.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\EncapsulationDemo\Person\obj\Debug\netcoreapp3.1\Person.dll
+C:\Users\georg\source\repos\EncapsulationDemo\Person\obj\Debug\netcoreapp3.1\Person.pdb
+C:\Users\georg\source\repos\EncapsulationDemo\Person\obj\Debug\netcoreapp3.1\Person.genruntimeconfig.cache

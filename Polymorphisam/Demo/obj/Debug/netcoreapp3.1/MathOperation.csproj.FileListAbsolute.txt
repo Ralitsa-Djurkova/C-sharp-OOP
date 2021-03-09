@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Demo\bin\Debug\netcoreapp3.1\MathOperation.exe
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Demo\bin\Debug\netcoreapp3.1\MathOperation.deps.json
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Demo\bin\Debug\netcoreapp3.1\MathOperation.runtimeconfig.json
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Demo\bin\Debug\netcoreapp3.1\MathOperation.runtimeconfig.dev.json
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Demo\bin\Debug\netcoreapp3.1\MathOperation.dll
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Demo\bin\Debug\netcoreapp3.1\MathOperation.pdb
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Demo\obj\Debug\netcoreapp3.1\MathOperation.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Demo\obj\Debug\netcoreapp3.1\MathOperation.AssemblyInfo.cs
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Demo\obj\Debug\netcoreapp3.1\MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Demo\obj\Debug\netcoreapp3.1\MathOperation.dll
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Demo\obj\Debug\netcoreapp3.1\MathOperation.pdb
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Demo\obj\Debug\netcoreapp3.1\MathOperation.genruntimeconfig.cache

@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.exe
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.deps.json
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.json
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.runtimeconfig.dev.json
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Vehicles\bin\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.AssemblyInfo.cs
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.dll
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.pdb
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Vehicles\obj\Debug\netcoreapp3.1\Vehicles.genruntimeconfig.cache

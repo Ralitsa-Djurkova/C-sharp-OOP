@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\AbstractsClassesAndInterfacesEx\bin\Debug\netcoreapp3.1\AbstractsClassesAndInterfacesEx.exe
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\AbstractsClassesAndInterfacesEx\bin\Debug\netcoreapp3.1\AbstractsClassesAndInterfacesEx.deps.json
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\AbstractsClassesAndInterfacesEx\bin\Debug\netcoreapp3.1\AbstractsClassesAndInterfacesEx.runtimeconfig.json
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\AbstractsClassesAndInterfacesEx\bin\Debug\netcoreapp3.1\AbstractsClassesAndInterfacesEx.runtimeconfig.dev.json
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\AbstractsClassesAndInterfacesEx\bin\Debug\netcoreapp3.1\AbstractsClassesAndInterfacesEx.dll
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\AbstractsClassesAndInterfacesEx\bin\Debug\netcoreapp3.1\AbstractsClassesAndInterfacesEx.pdb
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\AbstractsClassesAndInterfacesEx\obj\Debug\netcoreapp3.1\AbstractsClassesAndInterfacesEx.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\AbstractsClassesAndInterfacesEx\obj\Debug\netcoreapp3.1\AbstractsClassesAndInterfacesEx.AssemblyInfo.cs
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\AbstractsClassesAndInterfacesEx\obj\Debug\netcoreapp3.1\AbstractsClassesAndInterfacesEx.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\AbstractsClassesAndInterfacesEx\obj\Debug\netcoreapp3.1\AbstractsClassesAndInterfacesEx.dll
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\AbstractsClassesAndInterfacesEx\obj\Debug\netcoreapp3.1\AbstractsClassesAndInterfacesEx.pdb
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\AbstractsClassesAndInterfacesEx\obj\Debug\netcoreapp3.1\AbstractsClassesAndInterfacesEx.genruntimeconfig.cache

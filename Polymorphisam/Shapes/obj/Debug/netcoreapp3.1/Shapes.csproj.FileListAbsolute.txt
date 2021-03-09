@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Shapes\obj\Debug\netcoreapp3.1\Shapes.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Shapes\obj\Debug\netcoreapp3.1\Shapes.AssemblyInfo.cs
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Shapes\obj\Debug\netcoreapp3.1\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Shapes\bin\Debug\netcoreapp3.1\Shapes.exe
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Shapes\bin\Debug\netcoreapp3.1\Shapes.deps.json
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.json
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Shapes\bin\Debug\netcoreapp3.1\Shapes.runtimeconfig.dev.json
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Shapes\bin\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Shapes\bin\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Shapes\obj\Debug\netcoreapp3.1\Shapes.dll
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Shapes\obj\Debug\netcoreapp3.1\Shapes.pdb
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\Shapes\obj\Debug\netcoreapp3.1\Shapes.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\IPerson.exe
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\IPerson.deps.json
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\IPerson.runtimeconfig.json
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\IPerson.runtimeconfig.dev.json
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\IPerson.dll
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\DefineAnInterfaceIPerson\bin\Debug\netcoreapp3.1\IPerson.pdb
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\IPerson.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\IPerson.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\IPerson.AssemblyInfo.cs
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\IPerson.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\IPerson.dll
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\IPerson.pdb
+C:\Users\georg\source\repos\AbstractsClassesAndInterfacesEx\DefineAnInterfaceIPerson\obj\Debug\netcoreapp3.1\IPerson.genruntimeconfig.cache

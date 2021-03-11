@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\AbstractClassesAndInterfaces\Telephone\bin\Debug\netcoreapp3.1\Telephone.exe
+C:\Users\georg\source\repos\AbstractClassesAndInterfaces\Telephone\bin\Debug\netcoreapp3.1\Telephone.deps.json
+C:\Users\georg\source\repos\AbstractClassesAndInterfaces\Telephone\bin\Debug\netcoreapp3.1\Telephone.runtimeconfig.json
+C:\Users\georg\source\repos\AbstractClassesAndInterfaces\Telephone\bin\Debug\netcoreapp3.1\Telephone.runtimeconfig.dev.json
+C:\Users\georg\source\repos\AbstractClassesAndInterfaces\Telephone\bin\Debug\netcoreapp3.1\Telephone.dll
+C:\Users\georg\source\repos\AbstractClassesAndInterfaces\Telephone\bin\Debug\netcoreapp3.1\Telephone.pdb
+C:\Users\georg\source\repos\AbstractClassesAndInterfaces\Telephone\obj\Debug\netcoreapp3.1\Telephone.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\AbstractClassesAndInterfaces\Telephone\obj\Debug\netcoreapp3.1\Telephone.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\AbstractClassesAndInterfaces\Telephone\obj\Debug\netcoreapp3.1\Telephone.AssemblyInfo.cs
+C:\Users\georg\source\repos\AbstractClassesAndInterfaces\Telephone\obj\Debug\netcoreapp3.1\Telephone.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\AbstractClassesAndInterfaces\Telephone\obj\Debug\netcoreapp3.1\Telephone.dll
+C:\Users\georg\source\repos\AbstractClassesAndInterfaces\Telephone\obj\Debug\netcoreapp3.1\Telephone.pdb
+C:\Users\georg\source\repos\AbstractClassesAndInterfaces\Telephone\obj\Debug\netcoreapp3.1\Telephone.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp3.1\SolidPrinciples.exe
+C:\Users\georg\source\repos\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp3.1\SolidPrinciples.deps.json
+C:\Users\georg\source\repos\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp3.1\SolidPrinciples.runtimeconfig.json
+C:\Users\georg\source\repos\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp3.1\SolidPrinciples.runtimeconfig.dev.json
+C:\Users\georg\source\repos\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp3.1\SolidPrinciples.dll
+C:\Users\georg\source\repos\SolidPrinciples\SolidPrinciples\bin\Debug\netcoreapp3.1\SolidPrinciples.pdb
+C:\Users\georg\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp3.1\SolidPrinciples.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp3.1\SolidPrinciples.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp3.1\SolidPrinciples.AssemblyInfo.cs
+C:\Users\georg\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp3.1\SolidPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp3.1\SolidPrinciples.dll
+C:\Users\georg\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp3.1\SolidPrinciples.pdb
+C:\Users\georg\source\repos\SolidPrinciples\SolidPrinciples\obj\Debug\netcoreapp3.1\SolidPrinciples.genruntimeconfig.cache

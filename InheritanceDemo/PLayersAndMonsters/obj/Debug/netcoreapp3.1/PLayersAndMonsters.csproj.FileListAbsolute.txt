@@ -1,0 +1,13 @@
+C:\Users\georg\source\repos\InheritanceDemo\PLayersAndMonsters\bin\Debug\netcoreapp3.1\PLayersAndMonsters.exe
+C:\Users\georg\source\repos\InheritanceDemo\PLayersAndMonsters\bin\Debug\netcoreapp3.1\PLayersAndMonsters.deps.json
+C:\Users\georg\source\repos\InheritanceDemo\PLayersAndMonsters\bin\Debug\netcoreapp3.1\PLayersAndMonsters.runtimeconfig.json
+C:\Users\georg\source\repos\InheritanceDemo\PLayersAndMonsters\bin\Debug\netcoreapp3.1\PLayersAndMonsters.runtimeconfig.dev.json
+C:\Users\georg\source\repos\InheritanceDemo\PLayersAndMonsters\bin\Debug\netcoreapp3.1\PLayersAndMonsters.dll
+C:\Users\georg\source\repos\InheritanceDemo\PLayersAndMonsters\bin\Debug\netcoreapp3.1\PLayersAndMonsters.pdb
+C:\Users\georg\source\repos\InheritanceDemo\PLayersAndMonsters\obj\Debug\netcoreapp3.1\PLayersAndMonsters.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\InheritanceDemo\PLayersAndMonsters\obj\Debug\netcoreapp3.1\PLayersAndMonsters.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\InheritanceDemo\PLayersAndMonsters\obj\Debug\netcoreapp3.1\PLayersAndMonsters.AssemblyInfo.cs
+C:\Users\georg\source\repos\InheritanceDemo\PLayersAndMonsters\obj\Debug\netcoreapp3.1\PLayersAndMonsters.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\InheritanceDemo\PLayersAndMonsters\obj\Debug\netcoreapp3.1\PLayersAndMonsters.dll
+C:\Users\georg\source\repos\InheritanceDemo\PLayersAndMonsters\obj\Debug\netcoreapp3.1\PLayersAndMonsters.pdb
+C:\Users\georg\source\repos\InheritanceDemo\PLayersAndMonsters\obj\Debug\netcoreapp3.1\PLayersAndMonsters.genruntimeconfig.cache

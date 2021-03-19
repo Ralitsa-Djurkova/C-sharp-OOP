@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "87R/zuGUYx/qqNu3iolL+pZrCyXuWQ5LkpT8TqPv9MGcTorU3Y7r+An870xgi6lSBtvg6d/DaI5eGLjjvnXQvg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\georg\\source\\repos\\SolidPrinciples\\Stealer\\Stealers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\georg\\.nuget\\packages\\documentformat.openxml\\2.12.3\\documentformat.openxml.2.12.3.nupkg.sha512",
+    "C:\\Users\\georg\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

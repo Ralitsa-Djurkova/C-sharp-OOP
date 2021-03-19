@@ -1,0 +1,16 @@
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\bin\Debug\netcoreapp3.1\Stealers.exe
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\bin\Debug\netcoreapp3.1\Stealers.deps.json
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\bin\Debug\netcoreapp3.1\Stealers.runtimeconfig.json
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\bin\Debug\netcoreapp3.1\Stealers.runtimeconfig.dev.json
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\bin\Debug\netcoreapp3.1\Stealers.dll
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\bin\Debug\netcoreapp3.1\Stealers.pdb
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\bin\Debug\netcoreapp3.1\DocumentFormat.OpenXml.dll
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\bin\Debug\netcoreapp3.1\System.IO.Packaging.dll
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\obj\Debug\netcoreapp3.1\Stealers.csprojAssemblyReference.cache
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\obj\Debug\netcoreapp3.1\Stealers.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\obj\Debug\netcoreapp3.1\Stealers.AssemblyInfo.cs
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\obj\Debug\netcoreapp3.1\Stealers.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\obj\Debug\netcoreapp3.1\Stealers.csproj.CopyComplete
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\obj\Debug\netcoreapp3.1\Stealers.dll
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\obj\Debug\netcoreapp3.1\Stealers.pdb
+C:\Users\georg\source\repos\SolidPrinciples\Stealer\obj\Debug\netcoreapp3.1\Stealers.genruntimeconfig.cache

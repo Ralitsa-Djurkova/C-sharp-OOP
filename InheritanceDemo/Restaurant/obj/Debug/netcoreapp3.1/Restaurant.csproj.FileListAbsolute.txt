@@ -1,0 +1,12 @@
+C:\Users\georg\source\repos\InheritanceDemo\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.exe
+C:\Users\georg\source\repos\InheritanceDemo\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.deps.json
+C:\Users\georg\source\repos\InheritanceDemo\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.json
+C:\Users\georg\source\repos\InheritanceDemo\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.runtimeconfig.dev.json
+C:\Users\georg\source\repos\InheritanceDemo\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\georg\source\repos\InheritanceDemo\Restaurant\bin\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\georg\source\repos\InheritanceDemo\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfoInputs.cache
+C:\Users\georg\source\repos\InheritanceDemo\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.AssemblyInfo.cs
+C:\Users\georg\source\repos\InheritanceDemo\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.csproj.CoreCompileInputs.cache
+C:\Users\georg\source\repos\InheritanceDemo\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.dll
+C:\Users\georg\source\repos\InheritanceDemo\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.pdb
+C:\Users\georg\source\repos\InheritanceDemo\Restaurant\obj\Debug\netcoreapp3.1\Restaurant.genruntimeconfig.cache

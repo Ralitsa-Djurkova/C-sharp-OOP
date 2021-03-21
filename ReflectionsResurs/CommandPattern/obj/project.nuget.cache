@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VP7tEStiGhzPVOXXjqIHAKt1p646LqUZrrGkQfEd+gL+kh0CEbmfZ7V9gpiqfAGZp4MK4q3GWJVEL4sNoq9JUw==",
+  "dgSpecHash": "6pRfGIvM6FHaKZsK/g63WnZYqFHEyWr2kKBriVKRbujey/fQ2qzddpTDlQIKNRO2A+aAokTkO09y26wyRqHW5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\georg\\source\\repos\\ReflectionsResurs\\CommandPattern\\CommandPattern.csproj",
+  "projectFilePath": "C:\\Users\\georg\\source\\repos\\ReflectionsResurs\\CommandPattern\\Demo.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

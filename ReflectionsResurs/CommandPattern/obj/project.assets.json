@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\georg\\source\\repos\\ReflectionsResurs\\CommandPattern\\CommandPattern.csproj",
-      "projectName": "CommandPattern",
-      "projectPath": "C:\\Users\\georg\\source\\repos\\ReflectionsResurs\\CommandPattern\\CommandPattern.csproj",
+      "projectUniqueName": "C:\\Users\\georg\\source\\repos\\ReflectionsResurs\\CommandPattern\\Demo.csproj",
+      "projectName": "Demo",
+      "projectPath": "C:\\Users\\georg\\source\\repos\\ReflectionsResurs\\CommandPattern\\Demo.csproj",
       "packagesPath": "C:\\Users\\georg\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\georg\\source\\repos\\ReflectionsResurs\\CommandPattern\\obj\\",
       "projectStyle": "PackageReference",
